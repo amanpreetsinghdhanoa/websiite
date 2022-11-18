@@ -1,3 +1,3 @@
-# websiite
+# website
 aman website
 
